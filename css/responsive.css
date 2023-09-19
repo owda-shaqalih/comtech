@@ -1,0 +1,625 @@
+@media screen and (min-width: 1500px) {}
+@media screen and (max-width: 1320px) {
+	.main_menu > li > a{
+		font-size: 16px;
+	}
+	.main_menu{
+		margin-left: 30px;
+	}
+	.main_menu > li{
+		margin:0;
+	}
+	.main_menu > li > a{
+		padding: 30px 15px;
+	}
+}
+@media screen and (max-width: 1199px) {
+	.main_menu{
+		display: none;
+	}
+	#header .menu-trigger{
+		display: block;
+	}
+}
+@media screen and (max-width: 991px) {
+	.section_home_txt h2{
+		font-size: 32px;
+	}
+	.sc_head_txt h2,.title_dark,.cli_txt h2,.mn_news_txt h2{
+		font-size: 28px;
+	}
+	.service_txt h2{
+		font-size: 18px;
+	}
+	.contract_item{
+		padding: 15px;
+	}
+	.section_certification{
+		background-size: 35%;
+	}
+	.section_contracts{
+		background-size: 55%;
+	}
+	.logos_certification{
+		display: block !important;
+	}
+	.opportunities_item{
+		box-shadow: 0px 30px 40px rgba(0, 0, 0, 0.03);
+	}
+	#opportunities_slide .item{
+		padding: 20px 20px 40px;
+	}
+	.copy_lg{
+		display: none;
+	}
+	.ft_title{
+		font-size: 20px;
+		margin-top: 20px;
+	}
+	.copy_xs{
+		display: table;
+		margin:auto;
+		margin-top: 30px;
+	}
+	.bk_section_bannerInner{
+		padding: 60px 0 40px;
+	}
+	.sc_head_inner h2{
+		font-size: 30px;
+	}
+	.head_frm h2,.title_line h2{
+		font-size: 24px;
+	}
+	.contact_phone_list{
+		padding: 20px 0;
+	}
+	.certificate_itm h3{
+		font-size: 18px;
+	}
+	.bg_layer:before,.bg_layer:after{
+		background-size: 35%;
+	}
+	.txt_cpn h2{
+		font-size: 28px;
+	}
+	.bk_solutions_list{
+		padding: 50px 0 20px;
+	}
+	.solution_itm{
+		margin-bottom: 30px;
+	}
+	.sction_staffing{
+		padding: 80px 0;
+	}
+	.list_staffing .row > div.col_5{
+		-ms-flex: 0 0 25%;
+	    flex: 0 0 25%;
+	    max-width: 25%;
+	}
+	.details_news_item_txt h2{
+		font-size: 20px;
+	}
+	.details_news_item{
+		margin-bottom: 30px;
+	}
+	.rec_txt{
+		margin: auto auto auto 0;
+	}
+	.bk_details_contract{
+		margin-top: 30px;
+	}
+	.tp_contract_dt > h2{
+		padding: 0;
+	}
+	.tp_contract_dt > h2{
+		font-size: 24px;
+	}
+	.job_desc_head h2{
+		font-size: 24px;
+	}
+	.list_cycle .cycle_item:nth-child(even):before{
+		left: 20%;
+	}
+	.list_cycle .cycle_item:nth-child(odd):before{
+		left: 30%;
+	}
+}
+@media screen and (max-width: 767px) {
+	.form_search .form-control{
+		font-size: 16px;
+	}
+	.section_home_txt h2,.sc_head_inner h2{
+		font-size: 28px;
+	}
+	.txt_cpn h2,.title_dark,.cli_txt h2{
+		font-size: 26px;
+	}
+	.section_home_txt p,.sc_head_txt p{
+		font-size: 15px;
+	}
+	.sc_head_txt h2,.mn_news_txt h2{
+		font-size: 24px;
+	}
+	.section_services{
+		padding: 50px 0;
+	}
+	.service_box{
+		margin-bottom: 20px;
+	}
+	.service_txt p{
+		height: auto;
+		font-size: 16px;
+	}
+	.sc_head{
+		margin-bottom: 30px;
+	}
+	.contract_txt h2{
+		font-size: 17px;
+	}
+	.sc_head_right {
+		display: none !important;
+	}
+	.btn_dt_xs{
+		display: table !important;
+		margin: auto;
+	}
+	.section_contracts{
+		background-size: 70%;
+		padding: 50px 0 30px;
+	}
+	.contract_txt p{
+		height: auto;
+	}
+	.logos_certification{
+		display: flex !important;
+	}
+	.bk_sc_certification{
+		padding: 20px 0;
+	}
+	.section_certification,.section_news{
+		background-size: 45%;
+	}
+	.certificat_itm p{
+		font-size: 18px;
+	}
+	.section_client{
+		padding: 50px 0;
+	}
+	.clients_block{
+		padding: 0;
+	}
+	#clients_slider .slick-dots{
+		display: block !important;
+	}
+	.box_news_item_large .news_cption h2{
+		font-size: 17px;
+	}
+	.section_opportunities{
+		padding: 50px 0 20px;
+		background-size: 45%;
+	}
+	.txt_oppor h2{
+		font-size: 17px;
+	}
+	.ft_title{
+		font-size: 18px;
+	}
+	#footer{
+		padding: 30px 0 20px;
+	}
+	.text_editor_bk h3{
+		font-size: 18px;
+	}
+	.mb_30 {
+	    margin-bottom: 20px !important;
+	}
+	.mb_40 {
+	    margin-bottom: 20px !important;
+	}
+	.mb_50 {
+	    margin-bottom: 30px !important;
+	}
+	.box_contact_frm{
+		margin-top: 30px;
+	}
+	.certificate_itm h3{
+		font-size: 16px;
+	}
+	.certification_txt h3{
+		font-size: 18px;
+	}
+	.bg_layer:before,.bg_layer:after{
+		background-size: 45%;
+	}
+	.ventures_item_bk{
+		padding: 25px 0;
+	}
+	.candidate_item p{
+		font-size: 16px;
+	}
+	.btns_rigth .btn{
+		float: none;
+	}
+	.can_icon{
+		width: 40px;
+		height: 40px;
+	}
+	.candidate_item{
+		padding-left: 50px;
+	}
+	.pic_blog,.txt_blog p,.txt_blog h2{
+		height: auto;
+	}
+	.logo_banner{
+		height: 60px;
+		margin-bottom: 30px;
+	}
+	.bk_skilent_blogs{
+		padding: 40px 0 20px;
+	}
+	#clients_list .owl-nav{
+		display: none !important;
+	}
+	.bk_content_pic{
+		padding: 30px 0 20px;
+	}
+	.sction_staffing{
+		padding: 50px 0;
+	}
+	.list_staffing .row > div.col_5{
+		-ms-flex: 0 0 33.3333%;
+	    flex: 0 0 33.3333%;
+	    max-width: 33.3333%;
+	}
+	.contract-txt h2{
+		font-size: 18px;
+	}
+	.nav-tabs.tabs_sty > li .nav-link{
+		font-size: 18px;
+	}
+	.mn_news_txt h3{
+		font-size: 16px;
+	}
+	.date_mn_news img{
+		max-width: 20px;
+	}
+	.hidden_sm{
+		display: none;
+	}
+	.box_main_news:before,.box_main_news:after{
+		width: 100%;
+	}
+	.box_recent_top_sm{
+		display: block;
+		margin-bottom: 30px;
+	}
+	.recent_itm h2{
+		color: #333333;
+		font-weight: 700;
+		font-size: 18px;
+	}
+	.recent_itm h2 a{
+		color: #333333;
+	}
+	.recent_itm h2 a:hover{
+		color: #1975A9;
+	}
+	.recent_itm{
+		border-bottom: 2px solid #1975A9;
+		padding-top: 0;
+		padding-bottom: 15px;
+		margin-bottom: 15px;
+		margin-top: 0;
+	}
+	.recent_itm:last-child{
+		border-bottom: 0;
+	}
+	.list_recent_top{
+		padding-right: 20px;
+		height: 280px;
+		overflow-y: scroll;
+	}
+	.details_news_item_txt h2{
+		font-size: 18px;
+	}
+	.tp_contract_dt > h2{
+		font-size: 20px;
+	}
+	.bk_details_contract h2{
+		font-size: 18px;
+	}
+	.bk_related_contracts{
+		padding: 50px 0;
+	}
+	.job_desc_head h2{
+		font-size: 22px;
+	}
+	.itm_oper h3{
+		font-size: 16px;
+	}
+	.cycle_item_content{
+		width: auto;
+	}
+	.cycle_item:before{
+		display: none;
+	}
+	.cycle_item{
+		float: none;
+		display: block;
+		padding: 0 !important;
+		margin-bottom: 20px;
+		width: 100%;
+	}
+	.list_cycle{
+		display: block;
+	}
+	.cycle_item_content{
+		display: block;
+	}
+	.bk_lifeCycle{
+		padding: 50px 0 20px;
+	}
+}
+@media screen and (max-width: 575px) {
+	.section_home_txt h2,.sc_head_txt h2,.sc_head_inner h2,.title_dark,.mn_news_txt h2{
+		font-size: 22px;
+	}
+	.txt_cpn h2,{
+		font-size: 20px;
+	}
+	.section_home_txt p,.sc_head_txt p,.service_txt p,.contract_txt p,
+	.certification_txt > p{
+		font-size: 14px;
+	}
+	.btn_prim{
+		font-size: 16px;
+	}
+	.service_txt h2{
+		font-size: 16px;
+	}
+	.readmore_ser{
+		font-size: 15px;
+	}
+	.readmore_ser{
+		right: 15px;
+		opacity: 1;
+		visibility: visible;
+	}
+	.contract_txt h2{
+		font-size: 16px;
+	}
+	.section_contracts{
+		background-size: contain;
+	}
+	.section_certification,.section_news,.section_opportunities{
+		background-size: 60%;
+	}
+	.sc_head_txt h3{
+		font-size: 15px;
+	}
+	.logos_certification{
+		display: block !important;
+	}
+	.service_box{
+		padding: 30px 15px;
+	}
+	.readmore_ser{
+		bottom: 10px;
+	}
+	.box_news_item_large .news_cption h2{
+		font-size: 16px;
+	}
+	.news_cption h2{
+		font-size: 14px;
+	}
+	.box_news_item_large .news_pic{
+		height: 350px;
+	}
+	.partner_itm{
+		height: 80px;
+		padding: 15px;
+	}
+	.txt_oppor h2{
+		font-size: 16px;
+	}
+	.ft_social li > a{
+		width: 40px;
+		height: 40px;
+	}
+	.bk_section_bannerInner{
+		padding: 50px 0 30px;
+	}
+	.breadcrumb li{
+		font-size: 16px;
+	}
+	.breadcrumb-item+.breadcrumb-item::before{
+		font-size: 18px;
+	}
+	.sc_head_inner p{
+		font-size: 14px;
+	}
+	.text_editor_bk h3{
+		font-size: 16px;
+		margin-bottom: 10px;
+	}
+	.info_list p{
+		font-size: 15px;
+	}
+	.box_contact_frm{
+		padding: 20px 15px;
+	}
+	.head_frm h2,.title_line h2{
+		font-size: 20px;
+	}
+	.head_frm p{
+		font-size: 14px;
+	}
+	.content_page_static{
+		padding: 30px 0;
+	}
+	.sc_head_inner h3{
+		font-size: 15px;
+	}
+	.certifications_bkList{
+		padding: 30px 0 0;
+	}
+	.certification_txt h3{
+		font-size: 16px;
+	}
+	.bg_layer:before,.bg_layer:after{
+		background-size: 50%;
+	}
+	.txt_cpn p{
+		font-size: 14px;
+	}
+	.technology_cption{
+		position: relative;
+		height: auto;
+		top: auto;
+		bottom: auto;
+		left: auto;
+		right: auto;
+		padding: 20px !important;
+		background: #0B6DB1 !important;
+	}
+	.technology_pic > img{
+		border-radius: 10px 10px 0 0;
+	}
+	.label_teco{
+		position: static;
+		margin-bottom: 20px;
+		display: inline-block;
+		font-size: 12px;
+	}
+	.technology_cption p{
+		height: auto;
+	}
+	.technology_cption p{
+		font-size: 14px;
+	}
+	.technology_cption h3{
+		font-size: 16px;
+	}
+	.technology_pic{
+		height: auto;
+	}
+	.ver_txt{
+		text-align: center;
+		margin-bottom: 10px;
+	}
+	.ver_logo{
+		height: auto;
+		margin-bottom: 10px;
+	}
+	.ver_action > .btn{
+		float: none;
+		display: table;
+		margin: auto;
+	}
+	.candidate_item p{
+		font-size: 14px;
+	}
+	.logo_banner{
+		height: 50px;
+		margin-bottom: 20px;
+	}
+	.txt_cpn h2, .title_dark,.cli_txt h2{
+		font-size: 20px;
+	}
+	.txt_blog p{
+		font-size: 14px;
+	}
+	.txt_blog h2{
+		font-size: 16px;
+	}
+	.cli_txt p{
+		font-size: 14px;
+	}
+	.list_staffing .row > div.col_5{
+		-ms-flex: 0 0 50%;
+	    flex: 0 0 50%;
+	    max-width: 50%;
+	}
+	.security_item h3{
+		font-size: 15px;
+	}
+	.security_item{
+		padding: 30px 15px 20px;
+	}
+	.contract-txt h2{
+		font-size: 16px;
+		height: auto;
+	}
+	.contract-txt p{
+		font-size: 14px;
+		height: auto;
+	}
+	.contract-meta > div{
+		font-size: 14px;
+	}
+	.nav-tabs.tabs_sty > li .nav-link{
+		font-size: 16px;
+	}
+	.contract-pic{
+		height: auto;
+	}
+	.date_mn_news{
+		font-size: 14px;
+	}
+	.box_main_news{
+		padding: 50px 15px;
+	}
+	.breaking_itm h2,.cption_news h2{
+		font-size: 16px;
+	}
+	.breaking_itm p,.cption_news p{
+		font-size: 14px;
+	}
+	.recent_itm h2{
+		font-size: 16px;
+	}
+	.rec_txt h2{
+		font-size: 16px;
+	}
+	.tp_contract_dt > h2{
+		font-size: 18px;
+	}
+	.bk_details_contract h2{
+		font-size: 16px;
+	}
+	.modern_txt p{
+		font-size: 15px;
+	}
+	.modern_itm{
+		position: static;
+		transform: none !important;
+		width: 50%;
+		margin-bottom: 20px;
+		-webkit-box-flex: 0;
+	    -ms-flex: 0 0 50%;
+	    flex: 0 0 50%;
+	    max-width: 50%;
+	}
+	.modernization_flow {
+	    display: -webkit-box;
+	    display: -ms-flexbox;
+	    display: flex;
+	    -ms-flex-wrap: wrap;
+	    flex-wrap: wrap;
+	    margin-right: -15px;
+	    margin-left: -15px;
+	}
+	.modernization_flow{
+		height: auto;
+	}
+	.modern_txt{
+		margin-left: auto;
+		margin-right: auto;
+	}
+	.job_desc_head h2{
+		font-size: 20px;
+	}
+	.job_desc_head h3,.job_desc_bk h2{
+		font-size: 16px;
+	}
+}
